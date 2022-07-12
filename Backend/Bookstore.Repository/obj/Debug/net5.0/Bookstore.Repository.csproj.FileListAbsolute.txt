@@ -1,0 +1,15 @@
+E:\Web api\first project\Book-store\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.deps.json
+E:\Web api\first project\Book-store\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.dll
+E:\Web api\first project\Book-store\Bookstore.Repository\bin\Debug\net5.0\Bookstore.Repository.pdb
+E:\Web api\first project\Book-store\Bookstore.Repository\bin\Debug\net5.0\Bookstore.models.dll
+E:\Web api\first project\Book-store\Bookstore.Repository\bin\Debug\net5.0\Bookstore.models.pdb
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.AssemblyReference.cache
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.AssemblyInfoInputs.cache
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.AssemblyInfo.cs
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.CoreCompileInputs.cache
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.csproj.CopyComplete
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.dll
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\refint\Bookstore.Repository.dll
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\Bookstore.Repository.pdb
+E:\Web api\first project\Book-store\Bookstore.Repository\obj\Debug\net5.0\ref\Bookstore.Repository.dll
